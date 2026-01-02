@@ -1,0 +1,2 @@
+# AI-Powered-Virtual-Assistant
+AI-Powered Virtual Assistant | Smart. Interactive. Future-Ready. 🤖  I’m excited to share my AI-Powered Virtual Assistant, designed to make everyday digital interactions smarter, faster, and more intuitive.✨ Key Highlights: 🔹 Voice recognition &amp; speech synthesis  🔹 Opens web apps like YouTube, Google, LinkedIn  🔹 Real-time date &amp; time responses 
